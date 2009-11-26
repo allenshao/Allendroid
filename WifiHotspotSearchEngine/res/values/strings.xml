@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, WifiHotspotSE!</string>
+    <string name="app_name">WIFI Hotspot Search</string>
+    
+    
+    <!-- UploadAccount -->
+    <string name="des">ADD  : </string>
+    <string name="ssid">SSID : </string>
+    <string name="key">KEY  : </string>
+    <string name="longitude">LONG.: </string>
+    <string name="latitude">LAT. : </string>
+    <string name="upload_btn">Upload</string>
+    <string name="uploadHotspotStore">Uploading wifi account [SSID:</string>
+    <string name="toInternet">] to network database.</string>
+    <string name="uploadDone">already uploaded.</string>
+    
+    <!-- NearbySpotList -->
+    <string name="networkConnection">Network Connection</string>
+    <string name="getNearbySpotListFromNet">Get nearby wifi hotspot list from internet</string>
+</resources>

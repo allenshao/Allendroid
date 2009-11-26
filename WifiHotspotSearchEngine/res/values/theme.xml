@@ -1,0 +1,11 @@
+<resources>
+    <style name="Theme.Menu" parent="@android:style/Theme.Translucent">
+        <!--<item name="android:windowNoTitle">true</item>
+    --></style>
+    
+    <style name="Theme.Translucent" parent="android:style/Theme.Translucent"> 
+    <item name="android:windowBackground">@drawable/translucent_background</item> 
+    <!--<item name="android:colorForeground">#ffffffff</item> 
+	--></style>
+	<drawable name="translucent_background">#aa000000</drawable>
+</resources>
